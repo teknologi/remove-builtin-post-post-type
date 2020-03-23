@@ -3,7 +3,7 @@
 /**
  * Plugin Name: Remove builtin Post post type
  * Description: Remove builtin Post post type
- * Version: 0.0.1
+ * Version: 1.0.0
  * Plugin URI: https://github.com/teknologi/remove-builtin-post-post-type
  * Author: Hans Czajkowski Jørgensen
  * Text Domain: teknologi_reove_builtin_post_post_type
